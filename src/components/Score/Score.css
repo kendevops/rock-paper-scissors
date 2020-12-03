@@ -1,0 +1,35 @@
+.logo {
+  padding: 10px 0 0 0;
+}
+.scoreContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  border: 2px solid #fff;
+  padding: 1rem;
+  border-radius: 1rem;
+  margin: 50px auto;
+}
+
+.score {
+  background: #fff;
+  width: 5rem;
+  padding: 1.2rem 2rem;
+  border-radius: 20px;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.score h3 {
+  color: hsl(229, 64%, 46%);
+  margin: 0;
+  letter-spacing: 0.2rem;
+}
+
+.score p {
+  font-size: 3rem;
+  margin: 4px 0;
+  color: hsl(229, 25%, 31%);
+  font-weight: 700;
+}
