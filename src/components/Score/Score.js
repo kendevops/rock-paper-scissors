@@ -10,7 +10,7 @@ const Score = () => {
       </div>
       <div className="score">
         <h3>Score</h3>
-        <p id="scoreValue">12</p>
+        <p id="scoreValue">0</p>
       </div>
     </div>
   );

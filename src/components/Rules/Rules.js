@@ -23,7 +23,7 @@ const Rules = () => {
             <img src={close} alt="close button" />
           </button>
         </div>
-        <img src={rule} alt="Rules of the game" class="ruleImg" />
+        <img src={rule} alt="Rules of the game" className="ruleImg" />
       </div>
     </div>
   );
